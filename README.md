@@ -1,1 +1,1 @@
-# IPD-MA_IRT
+Individual Participant Data Meta Analysis Item Response Theory Simulations
